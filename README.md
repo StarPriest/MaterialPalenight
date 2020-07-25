@@ -13,8 +13,10 @@ Material Palenight Theme for visual studio 2019
 ![ExtensionsImg](/images/扩展.png)
 
 ### 导入皮肤rider.vstheme
-1. ![Step2](images/step1.png)
-2. ![Step1](images/step2.png)
+1.打开vs皮肤管理器
+ ![Step2](images/step1.png)
+2. 找到导入皮肤按钮并导入皮肤 
+![Step1](images/step2.png)
 
 
 ## 效果
